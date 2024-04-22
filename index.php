@@ -1,0 +1,20 @@
+<h1>List website praktikum</h1>
+
+<li><a href="praktek1.php">praktek 1</a></li>
+<li><a href="praktek2.php">praktek 2</a></li>
+<li><a href="praktek3.php">praktek 3</a></li>
+<li><a href="kondisi1.php">praktek 4</a></li>
+<li><a href="kondisi2.php">praktek 5</a></li>
+<li><a href="kondisi3.php">praktek 6</a></li>
+<li><a href="kondisi4.php">praktek 7</a></li>
+<li><a href="perulangan1.php">praktek 8</a></li>
+<li><a href="perulangan2.php">praktek 9</a></li>
+<li><a href="perulangan3.php">praktek 10</a></li>
+<li><a href="perulangan4.php">praktek 11</a></li>
+<li><a href="perulangan5.php">praktek 12</a></li>
+<li><a href="perulangan6.php">praktek 13</a></li>
+<li><a href="array1.php">praktek 14</a></li>
+<li><a href="array2.php">praktek 15</a></li>
+<li><a href="array3.php">praktek 16</a></li>
+<li><a href="function1.php">praktek 17</a></li>
+<li><a href="function2.php">praktek 18</a></li>
